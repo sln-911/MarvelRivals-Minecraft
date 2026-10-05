@@ -1,10 +1,9 @@
 {
   "title": "Marvel Rivals Minecraft Mod",
   "tagline": "Experience Marvel Rivals hero abilities and weapons inside Minecraft.",
-  "description": "Bring Marvel Rivals combat into Minecraft! Unleash iconic character powers and weapons directly in your Fabric 1.20.1 world.",
+  "description": "Bring Marvel Rivals combat into Minecraft! Unleash iconic character powers and weapons directly in your game world.",
   "game": "minecraft",
   "gameVersion": "1.20.1",
-  "modLoader": "fabric",
   "license": "MIT",
   "credits": "Sultan Al-Khaldi",
   "dependencies": [],
