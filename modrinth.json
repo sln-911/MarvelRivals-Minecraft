@@ -7,19 +7,14 @@
   "modLoader": "fabric",
   "license": "MIT",
   "credits": "Sultan Al-Khaldi",
-  "dependencies": [
-    {
-      "project_id": "fabric-loader",
-      "dependency_type": "required"
-    },
-    {
-      "project_id": "fabric-api",
-      "dependency_type": "required"
-    }
-  ],
+  "dependencies": [],
   "components": [
     {
       "fileName": "marvelrivals-1.0.0.jar",
+      "destination": "{minecraft-instance}/mods/"
+    },
+    {
+      "fileName": "fabric-api-0.87.0+1.20.1.jar",
       "destination": "{minecraft-instance}/mods/"
     }
   ]
